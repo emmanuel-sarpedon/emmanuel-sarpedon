@@ -1,6 +1,6 @@
 ### Hey ! 👋
 
-I'm Emmanuel SARPEDON, 26 years, 3rd year student at [ETNA](https://etna.io/) 👈
+I'm Emmanuel SARPEDON, 26 years old, 3rd year student at [ETNA](https://etna.io/) 👈
 
 😍 My dream Stack ✨ ?
 
