@@ -1,6 +1,6 @@
 ## Hey ! 👋
 
-I'm Emmanuel, 26 years old, 3rd year student at [ETNA Paris](https://etna.io/) 👈
+I'm Emmanuel, 3rd year student at [ETNA Paris](https://etna.io/) 👈
 
 ---
 
