@@ -5,13 +5,14 @@ I'm Emmanuel, 3rd year student at [ETNA Paris](https://etna.io/) 👈
 ---
 
 ### Junior Web Developer ✨
-#### 🌴 Reunion Island 🇷🇪 & Remote 
+
+#### 🌴 Reunion Island & 🏡 Remote
 
 #JavaScript / React / Node.js / MongoDB ✅
 
 #Material UI / React Native 🌱
 
-#PHP / Symfony 👉 _Next step_
+#PHP / Laravel 👉 _Next step_
 
 ---
 
