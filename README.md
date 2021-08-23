@@ -2,6 +2,8 @@
 
 I'm Emmanuel, 3rd year student at [ETNA Paris](https://etna.io/) 👈
 
+![code-wars](https://www.codewars.com/users/emmanuel-sarpedon/badges/micro)
+
 ---
 
 ### Junior Web Developer ✨
@@ -22,6 +24,8 @@ I'm Emmanuel, 3rd year student at [ETNA Paris](https://etna.io/) 👈
 - or [Mail](mailto:emmanuel.sarpedon@gmail.com) ✉️
 
 See you soon ! 😃
+
+![code-wars](https://www.codewars.com/users/emmanuel-sarpedon/badges/large)
 
 <!--
 **emmanuel-sarpedon/emmanuel-sarpedon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
