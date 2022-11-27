@@ -1,27 +1,22 @@
 ## Hey ! 👋
 
-I'm Emmanuel, 3rd year student at [ETNA Paris](https://etna.io/) 👈
+I'm Emmanuel, JavaScript and TypeScript Developer👈
 
 ![code-wars](https://www.codewars.com/users/emmanuel-sarpedon/badges/micro)
 
 ---
 
-### Junior Web Developer ✨
+### Developer FullStack JavaScript / TypeScript ✨
 
 #### 🌴 Reunion Island & 🏡 Remote
 
-#JavaScript / React / Node.js / MongoDB ✅
-
-#Material UI / React Native 🌱
-
-#PHP / Laravel 👉 _Next step_
+#JavaScript / React / Nextjs / Node.js / MongoDB / PostgreSQL ✅
 
 ---
 
 📫 **_How to reach me_** 🚨
 
-- [Link to my website](https://emmanuel-s.netlify.app) 🖥
-- or [Mail](mailto:emmanuel.sarpedon@gmail.com) ✉️
+- [Mail](mailto:e.sarpedon.pro@gmail.com) ✉️
 
 See you soon ! 😃
 
